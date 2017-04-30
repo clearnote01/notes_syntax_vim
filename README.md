@@ -1,14 +1,19 @@
-#Cool new syntax highlighting support for .notes fileformat for writing your exam notes in vim/neovim
-  
-##Vim users
+### Cool new syntax highlighting support for .notes fileformat for writing your exam notes in vim/neovim  
+    
+
+##### Vim users
   
 Copy the  given two folders to the path $HOME/.vim/
+
+---  
   
-##Neovim users
+##### Neovim users
   
 Copy the given two folders to the path $HOME/.config/neovim/
   
-##Usage  
+---  
+  
+##### Usage  
 
 Primary Heading/title    
 > \#Heading_Name  
@@ -24,6 +29,8 @@ Numbers support
 > 2. Point 2    
 > 3. Point 3   
   
-##Screenshots
+---  
+  
+##### Screenshots
   
 ![Alt text](notes_syntax_screenshot.png?raw=true "Screenshot")
