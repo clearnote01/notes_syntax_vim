@@ -29,7 +29,7 @@ Numbers support
 
 Bullet points  
 > \- Text here  
-> \- Even more text
+> \- Even more text  
 > \- Nothing to see here  
   
 ---  
