@@ -3,11 +3,13 @@
 
 ##### Vim users
   
-Copy the two folders(ftdetect & syntax) to the path $HOME/.vim/
+Copy the two folders (ftdetect & syntax) to the path $HOME/.vim/
+  
+---  
   
 ##### Neovim users
   
-Copy the two folders(ftdetect & syntax) to the path $HOME/.config/neovim/
+Copy the two folders (ftdetect & syntax) to the path $HOME/.config/neovim/
   
 ---  
   
