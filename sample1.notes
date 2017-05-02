@@ -1,41 +1,33 @@
-#Uses of network
-    a) Business Application ->
-        1. Sharing resource (vpn, client-server)
-            Some text here,
-            that is pretty cool.
-            Not a text here,
-            but I won't mention it.
-        2. Communication (email, VoIp, desktop sharing)
-            - point
-            - point2
-            - point3
-        3. E-commerce
-    b) Home Application ->
-        1. Everything has network (looking at music, photos, video)
-        2. Buy on e-commerce
-        3. Metcalfe's law 
-        4. Access remote information (hisory, government, cooking, business)
-        5. peer-to-peer
-            5.1 Sub category one
+#Topic 1
+    a) Heading 1
+        1. Sub-heading 1
+            Some text here
+        2. Sub-heading 2
+            Text here
+        3. Sub-heading 3
+            Some more text
+            - Text 1 here
+            - Text 2 here
+            - Text 3 here
+    b) Heading 2
+        1. Sub-heading 1
+            5.1 Category 1
                 Text here
-                5.1.1 Another category
+                5.1.1 Sub-category 1
                     text here
-                5.1.2 Another category
+                5.1.2 Sub-category 2
                     text here
-            5.2 Sub category two
+            5.2 Category 2
                 text here
-        6. ubiquitous computing -> embedded computer
-        7. power-line network
-        8. Radio Frequency Chips
+        2. Sub-heading 2
+        3. Sub-heading 3
+        4. Sub-heading 4
     c) Sub-heading 
-        - Text here
-        - Text 2
-        - Text 3
     
-
 # Topic 2
     a) Sub 1
-        Text here
+        Given points as below:
+        - I am making a point here.
     b) Sub 2
         1. One 
         2. Two 

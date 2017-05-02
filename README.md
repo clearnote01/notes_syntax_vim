@@ -34,6 +34,26 @@ Bullet points
   
 ---  
   
-##### Screenshots
+##### Screenshots  
+    
+##### Default Theme (vim)  
   
-![Alt text](notes_syntax_screenshot.png?raw=true "Screenshot")
+![Alt text](/screenshots/default_theme.png?raw=true "Screenshot")
+   
+##### Hybrid Theme    
+
+![Alt text](/screenshots/hybrid_theme.png?raw=true "Screenshot")
+  
+##### Molokai Theme  
+   
+![Alt text](/screenshots/molokai_theme.png?raw=true "Screenshot")
+  
+##### Lucius Theme (light)  
+   
+![Alt text](/screenshots/lucius_light_theme.png?raw=true "Screenshot")
+##### Lucius Theme (dark)  
+   
+![Alt text](/screenshots/lucius_dark_theme.png?raw=true "Screenshot")
+##### Dracula Theme   
+   
+![Alt text](/screenshots/dracula_theme.png?raw=true "Screenshot")
