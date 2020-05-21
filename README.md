@@ -1,7 +1,8 @@
-Go and use [vimwiki](https://github.com/vimwiki/vimwiki)
-I wrote this plugin in like 2 hrs before sem exams, way better plugins exists now, use them!!!
+#### Go and use [vimwiki](https://github.com/vimwiki/vimwiki) instead of this. I don't recommend to use this at all.
 
-### Cool new syntax highlighting support for .notes fileformat for writing your exam notes in vim/neovim  
+
+
+Cool new syntax highlighting support for .notes fileformat for writing your exam notes in vim/neovim  
     
 
 ##### Vim users
